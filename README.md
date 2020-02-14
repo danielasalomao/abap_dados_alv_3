@@ -2,37 +2,37 @@
 
 ## Objetivo 
 
-Saiba como criar uma tabelas
-Veja o conceito de eventos/horas
-Entenda sobre grupos de funções
-Aprenda sobre chave estrangeira
-Use os comandos Insert, Update e Modify
+Saiba como criar uma tabelas<br>
+Veja o conceito de eventos/horas<br>
+Entenda sobre grupos de funções<br>
+Aprenda sobre chave estrangeira<br>
+Use os comandos Insert, Update e Modify<br>
 
 ## Conteúdo Detalhado
 
 ### Conhecendo o Cenário
-Conhecendo a SE11
-Campos e elementos de dados
-Moeda e Categoria de ampliação
+Conhecendo a SE11<br>
+Campos e elementos de dados<br>
+Moeda e Categoria de ampliação<br>
 
 ---
 ### Inserindo Dados na Tabela
-Programa de Carga
-Comando Insert
-Update e Modify
+Programa de Carga<br>
+Comando Insert<br>
+Update e Modify<br>
 
 ---
 ### Gerador de Atualização
-Projeto da aula anterior
-Visão de Atualização
-Acessando a Visão
-Atualização da tabela
+Projeto da aula anterior<br>
+Visão de Atualização<br>
+Acessando a Visão<br>
+Atualização da tabela<br>
 
 ---
 ### Tabela de Consistência
-Criação e Atualização de Tela
-Evento e Hora
-Consistindo dados
+Criação e Atualização de Tela<br>
+Evento e Hora<br>
+Consistindo dados<br>
 
 ---
 ### Transações
